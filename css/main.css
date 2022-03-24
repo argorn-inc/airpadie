@@ -1,0 +1,72 @@
+*{
+    margin: 0 auto;
+    
+}
+
+li{
+    
+    list-style-type: none;
+}
+
+.nav-link{
+    color: #000000;
+    font-size: 17;
+}
+
+.site-banner{
+    padding-top: 15%;
+    padding-left: 3%;
+    font-weight: bolder;
+    font-size: 50px;
+    /* border: 2px solid salmon; */
+    height: 80vh;
+    background-image: url("../images/site-banner11.png");
+    background-size: 90%;
+    background-position: right;
+    background-repeat: no-repeat;
+    
+
+}
+.nustyl{
+    /* height: 80vh; */
+    /* font-size: 39px; */
+}
+.right{
+    color: #fff;
+    padding-left: 10%;
+    font-size: 40px;
+    padding-top: 15%;
+    height: 70vh;
+    background-color: #2F68F1;
+    background-image: url("../images/right.png");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 60%;
+    
+}
+.left{
+    
+    padding-left: 10%;
+    font-size: 40px;
+    padding-top: 15%;
+    height: 70vh;
+    background-color: #D9E3FC;
+    background-image: url("../images/left.png");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 65%;
+
+}
+
+.shopper-traveler{
+    padding-top: 3%;
+}
+
+.btn{
+    border-radius: 30px;
+    width: 170px;
+}
+
+.card{
+    border: none;
+}
